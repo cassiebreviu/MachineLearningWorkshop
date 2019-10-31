@@ -1,6 +1,6 @@
 ## Setup
 
-### 1. Create an Azure account [here]()
+### 1. Create an Azure account [here](https://azure.microsoft.com/en-us/free/?WT.mc_id=lbsforum-event-cassieb)
 
 ### 2. Create Azure Machine Learninge Resources with the Deploy to Azure Button below
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcassieview%2Fignite-learning-paths-training-aiml%2Fmaster%2Faiml30%2Fdeploy.json" rel="nofollow">
